@@ -1,5 +1,5 @@
-/* 
- * Code for basic C skills diagnostic.
+/*
+ * Code for basic C skills diagnostic. sfdjkl
  * Developed for courses 15-213/18-213/15-513 by R. E. Bryant, 2017
  * Modified to store strings, 2018
  */
